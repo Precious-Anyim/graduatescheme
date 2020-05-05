@@ -1,0 +1,10 @@
+.bd-card .card-body{
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content: start;
+}
+
+.bd-card{
+    margin-bottom: 10px;
+}
